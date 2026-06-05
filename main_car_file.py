@@ -1,6 +1,6 @@
 from car_class_encapsulation import Car
 
-my_own_car = Car(2026,  "Bugatti Bolide")
+my_own_car = Car(2026, "buggati")
 
 print("Accelerate")
 for i in range(5):
